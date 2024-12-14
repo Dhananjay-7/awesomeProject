@@ -13,5 +13,6 @@ func test(m Code) {
 }
 
 func main() {
+
 	test(Code{phoneNumber: 1, message: "hello"})
 }
